@@ -12,4 +12,4 @@ A script to generate a yml file with the required format, which can then be adde
 A compilation of conversations, generated using the description on the dataset, which is used by the Chatterbot API.
 
 * _zomatobot.py_ :
-Script used to run the bot
+Script used to run the bot.
